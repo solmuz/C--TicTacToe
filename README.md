@@ -15,5 +15,5 @@ how does it work?
   -game goes on until someone wins by conecting a full row, column or diagonal.
 -------------
 
-  -if the board gets full and no row, column or diagonall is connected by any of the players the game will end in a tie.
+  -if the board gets full and no row, column or diagonal is connected by any of the players the game will end in a tie.
 -------------
